@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Yo,my name is ᎩᏬᎥ
-I am a group management bot which can help you to manage group easy You can see my cmd in help button *POWERED* BY *@BotProtocol* [.](https://telegra.ph/file/ba29e4d3c2b2dd0e2deac.jpg)
+I am a group management bot which can help you to manage group easy You can see my cmd in help button[.](https://telegra.ph/file/0119b098344da8d0924bc.jpg)
 """
 
 buttons = [
@@ -94,7 +94,7 @@ buttons = [
             text="👥SUPPORT👥", url="https://t.me/chat_support_yui_robot"),
     ],
     [  
-        InlineKeyboardButton(text="Bot-protocol", url="https://t.me/BotProtocol"),
+        InlineKeyboardButton(text="Anime chat", url="https://t.me/LEGENDxSENPAI"),
     ], 
     
 ]
@@ -104,8 +104,8 @@ buttons = [
 HELP_STRINGS = """
 *ᎩᏬᎥ comes with many special features in it*
 *CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF ᎩᏬᎥ*
-👷 *All commands can either be used with* `/` *or* `!`.
-👷 *If you facing any issue or find any bugs in any command then you can report it in @chat_support_yui_robot* [.](https://telegra.ph/file/e5cbf8ba4723a8ac34f68.jpg)
+🔥 *All commands can either be used with* `/` *or* `!`.
+🔥 *If you facing any issue or find any bugs in any command then you can report it in @chat_support_yui_robot* [.](https://telegra.ph/file/ba286ee2cee96f33a197f.jpg)
 """
 
 
